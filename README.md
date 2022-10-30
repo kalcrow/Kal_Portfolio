@@ -37,7 +37,7 @@ Medium: Cyanotype on Watercolor Paper
 * **Year Completed:** 2021
 
 
-# Hollowed Out - Stripped
+# Hollowed Out
 
 ![alt text](hollowed_out_stripped.jpg)
 
