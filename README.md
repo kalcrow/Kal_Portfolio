@@ -1,5 +1,4 @@
 # Art and Design Portfolio
-theme: dinky
 
 # Kal Corwin
 *EFY, Computer Science Intent | Aspiring Game Developer*
