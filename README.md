@@ -24,7 +24,7 @@ Medium: Soft Pastel on Velour Paper
 ![alt text](c'est_la_vie.jpg)
 
 Medium: Digital, Created on Krita
-* **Dimensions:** 2,480 x 3508 pixels
+* **Dimensions:** 2,480 x 3,508 pixels
 * **Year Completed:** 2022
 
 
@@ -60,7 +60,7 @@ Medium: Collage, Pen and Pencil on Paper
 ![alt text](a_fall.png)
 
 Medium: Digital, Created on Krita
-* **Dimensions:** 1080 x 1920 pixels
+* **Dimensions:** 1,080 x 1,920 pixels
 * **Year Completed:** 2020
 
 
