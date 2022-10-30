@@ -1,5 +1,3 @@
-# Art and Design Portfolio
-
 # Kal Corwin
 *EFY, Computer Science Intent | Aspiring Game Developer*
 
