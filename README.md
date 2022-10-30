@@ -2,11 +2,11 @@
 theme: dinky
 
 # Kal Corwin
-*EFY with Computer Science Intent | Aspiring Game Developer*
+*EFY, Computer Science Intent | Aspiring Game Developer*
 
-# Homebound | OR HomeBound
+# Homebound
 
-[IMAGE]
+![alt text](homebound.PNG)
 
 Medium: Acrylic Paint on Canvas
 * **Dimensions:** 
@@ -15,7 +15,7 @@ Medium: Acrylic Paint on Canvas
 
 # Softwave Glamour
 
-[IMAGE]
+![alt text](softwave_glamour.jpg)
 
 Medium: Soft Pastel on Velour Paper
 * **Dimensions:** 9.4" x 12.6"
@@ -24,7 +24,7 @@ Medium: Soft Pastel on Velour Paper
 
 # C'est la Vie
 
-[IMAGE]
+![alt text](c'est_la_vie.jpg)
 
 Medium: Digital, Created on Krita
 * **Dimensions:** 2,480 x 3508 pixels
@@ -33,7 +33,7 @@ Medium: Digital, Created on Krita
 
 # Little Creatures
 
-[IMAGE]
+![alt text](little_creatures.jpg)
 
 Medium: Cyanotype on Watercolor Paper
 * **Dimensions:** 9" x 12"
@@ -42,7 +42,7 @@ Medium: Cyanotype on Watercolor Paper
 
 # Hollowed Out - Stripped
 
-[IMAGE]
+![alt text](hollowed_out_stripped.jpg)
 
 Medium: Charcoal on Newsprint Paper
 * **Dimensions:** 11.4" x 12.5"
@@ -51,7 +51,7 @@ Medium: Charcoal on Newsprint Paper
 
 # To Copy, To Create
 
-[IMAGE]
+![alt text](to_copy_to_create.jpg)
 
 Medium: Collage, Pen and Pencil on Paper
 * **Dimensions:** 11" x 14"
@@ -60,7 +60,7 @@ Medium: Collage, Pen and Pencil on Paper
 
 # A Fall
 
-[IMAGE]
+![alt text](a_fall.png)
 
 Medium: Digital, Created on Krita
 * **Dimensions:** 1080 x 1920 pixels
@@ -69,7 +69,8 @@ Medium: Digital, Created on Krita
 
 # Familiar Spaces
 
-[IMAGE]
+![alt text](familiar_spaces_front.jpg)
+![alt text](familiar_spaces_top.jpg)
 
 Medium: Watercolor on Watercolor Paper
 * **Dimensions:** 6" x 6.75" x 8.5"
@@ -78,7 +79,8 @@ Medium: Watercolor on Watercolor Paper
 
 # Life's Gauntlet
 
-[IMAGE]
+![alt text](lifes_gauntlet_full.jpg)
+![alt text](lifes_gauntlet_hand.jpg)
 
 Medium: Mixed Media (Wire, Cardboard, Found Objects, Acrylic Paint)
 * **Dimensions:** 20.75" x 14.5" x 14.5"
@@ -87,7 +89,7 @@ Medium: Mixed Media (Wire, Cardboard, Found Objects, Acrylic Paint)
 
 # A Night on the Town
 
-[IMAGE]
+![alt text](a_night_on_the_town.jpg)
 
 Medium: Oil Pastel on Paper
 * **Dimensions:** 19" x 25"
