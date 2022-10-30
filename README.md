@@ -6,7 +6,7 @@
 ![alt text](homebound.PNG)
 
 Medium: Acrylic Paint on Canvas
-* **Dimensions:** 
+* **Dimensions:** 20" x 16"
 * **Year Completed:** 2021
 
 
